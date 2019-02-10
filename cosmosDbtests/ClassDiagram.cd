@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cosmosDbtests.Measure">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cosmosDbtests.MeasureRepository">
+    <Position X="3.5" Y="1" Width="2.25" />
+    <Members>
+      <Method Name="MeasureRepository" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAEAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>MeasureRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cosmosDbtests.CosmosDbFixture">
+    <Position X="6.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQgACAAAEAAAABAAAAAAAAAhAQAAAAAAAACACA=</HashCode>
+      <FileName>CosmosDbFixture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="cosmosDbtests.MeasureRepositoryTest">
+    <Position X="3.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeasureRepositoryTest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Current",
+    "Unit": "A",
+    "Code": "I",
+    "pk":  "measure" 
+  },
+  {
+    "Name": "Voltage",
+    "Unit": "V",
+    "Code": "U",
+    "pk":  "measure" 
+  }
+]
